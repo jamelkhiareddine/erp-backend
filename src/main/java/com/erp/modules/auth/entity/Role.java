@@ -1,0 +1,14 @@
+package com.erp.modules.auth.entity;
+
+public enum Role {
+    ROLE_ADMIN,
+    ROLE_HR_MANAGER,
+    ROLE_HR_STAFF,
+    ROLE_FINANCE_MANAGER,
+    ROLE_FINANCE_STAFF,
+    ROLE_INVENTORY_MANAGER,
+    ROLE_INVENTORY_STAFF,
+    ROLE_CRM_MANAGER,
+    ROLE_CRM_STAFF,
+    ROLE_VIEWER
+}
